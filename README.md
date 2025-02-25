@@ -10,4 +10,4 @@
 
 ✅ Insights & Conclusion: Key takeaways and actionable findings.
 
-# Tools Used: Python, Pandas, Matplotlib, Seaborn, and more.
+# Tools Used: Python,Power BI, Pandas, Matplotlib, Seaborn, and more.
